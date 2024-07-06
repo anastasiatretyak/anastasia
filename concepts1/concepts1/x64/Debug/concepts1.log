@@ -1,0 +1,12 @@
+﻿  concepts1.cpp
+D:\Уник\Прога\concepts1\concepts1\concepts1.cpp(62,25): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\Уник\Прога\concepts1\concepts1\concepts1.cpp(65,28): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+  concepts1.vcxproj -> D:\Уник\Прога\concepts1\x64\Debug\concepts1.exe
